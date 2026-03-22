@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Cheryl Hapke</origin>
+				<origin>David Reid</origin>
+				<origin>Krystal Green</origin>
+				<pubdate>2007</pubdate>
+				<title>cencal1998_2002.shp - Vectorized Cliff Edge of Central California Derived from 1998/2002 Lidar Source Data</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>Open-File Report</sername>
+					<issue>2007-1112</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>U.S. Geological Survey, Pacific Science Center, Santa Cruz, California</pubplace>
+					<publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish>
+				</pubinfo>
+				<onlink>http://pubs.usgs.gov/of/2007/1112/CCal.zip</onlink>
+				<onlink>http://pubs.usgs.gov/of/2007/1112/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Cheryl Hapke</origin>
+						<origin>David Reid</origin>
+						<origin>Krystal Green</origin>
+						<origin>Mark Borrelli</origin>
+						<pubdate>2007</pubdate>
+						<title>National Assessment of Shoreline Change: Part 4: A GIS Compilation of Vector cliff edges and associated change data for the cliffed shorelines of the California Coast</title>
+						<serinfo>
+							<sername>Open-File Report</sername>
+							<issue>2007-1112</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>U.S. Geological Survey, Pacific Science Center, Santa Cruz</pubplace>
+							<publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish>
+						</pubinfo>
+						<onlink>http://pubs.usgs.gov/of/2007/1112/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">cencal1998_2002</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>There are critical needs for a nationwide compilation of reliable cliff edge data.  To meet these needs, the USGS has produced a comprehensive database of digital vector cliff edges by compiling cliff edge positions from pre-existing historical cliff edge databases and by generating historical and modern cliff edge data.  Cliff edges are compiled by state and generally correspond to two periods: 1920s-1930s and 1998-2002.  Each cliff edge may represent a compilation of data from one or more sources for one or more dates provided by one or more agencies.  Details regarding source are provided in the "data quality information" section of this metadata report.  Cliff edge vectors derived from both historic sources (first time period) and modern sources (final time period) represent the cliff edge at the time of the survey.</abstract>
+			<purpose>Historical cliff erosion is considered to be a crucial element in studying the vulnerability of the national coastline.  These data are used in a cliff erosion analysis for the USGS National Assessment Project.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1998</begdate>
+					<enddate>2002</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-123.023377</westbc>
+				<eastbc>-119.797553</eastbc>
+				<northbc>38.242553</northbc>
+				<southbc>34.432568</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-123.023299</leftbc><rightbc Sync="TRUE">-120.000050</rightbc><bottombc Sync="TRUE">34.444174</bottombc><topbc Sync="TRUE">38.242553</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>General</themekt>
+				<themekey>Cliff Edge</themekey>
+				<themekey>Historic Cliff Edge</themekey>
+				<themekey>Cliff Erosion Rate</themekey>
+				<themekey>Endpoint Rate</themekey>
+				<themekey>Baseline</themekey>
+				<themekey>Cliff Erosion</themekey>
+				<themekey>LIDAR</themekey>
+				<themekey>T-sheet</themekey>
+				<themekey>Tp-sheet</themekey>
+				<themekey>Coastal Survey Map</themekey>
+				<themekey>U.S. Geological Survey</themekey>
+				<themekey>USGS</themekey>
+				<themekey>Coastal and Marine Geology Program</themekey>
+				<themekey>CMGP</themekey>
+				<themekey>ESRI polyline shapefile</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>oceans</themekey>
+				<themekey>oceans and estuaries</themekey>
+				<themekey>oceans and coastal</themekey>
+				<themekey>geoscientificInformation</themekey>
+			</theme>
+			<place>
+				<placekt>Geographic Names Information System, USGS, Reston, VA</placekt>
+				<placekey>United States</placekey>
+				<placekey>California</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>Public domain data are freely redistributable with proper metadata and source attribution.  The U.S. Geological Survey (USGS) must be referenced as the originator of the dataset in any future products or research derived from these data.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Cheryl Hapke</cntper>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Patuxent Wildlife Research Center</address>
+					<address>University of Rhode Island</address>
+					<address>317 Woodward Hall, Dept. of Geosciences</address>
+					<city>Kingston</city>
+					<state>RI</state>
+					<postal>02881</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>401-874-5532</cntvoice>
+				<cntfax>401-874-2190</cntfax>
+				<cntemail>chapke@usgs.gov</cntemail>
+				<hours>Monday through Friday, 9 a.m. to 5 p.m., Eastern Standard Time</hours>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo>
+				<origin>Cheryl Hapke</origin>
+				<origin>David Reid</origin>
+				<pubdate>2007</pubdate>
+				<title>The National Assessment of Shoreline Change, Part 4: Historical Coastal Cliff Retreat Along the California Coast</title>
+				<edition>1.0</edition>
+				<serinfo>
+					<sername>Open-File Report</sername>
+					<issue>2007-1133</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>U.S. Geological Survey, Pacific Science Center, Santa Cruz</pubplace>
+					<publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish>
+				</pubinfo>
+				<onlink>http://pubs.usgs.gov/of/2007/1133/</onlink>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The data supplied here are a compilation of information collected from numerous LIDAR (LIght Detection And Ranging) surveys.  Attribute data was generated once the point solutions from the elevation point data were processed and identified as representing the cliff edge location.  The attributes in this dataset are based on the Digital Shoreline Analysis System (DSAS) version 3.2; An ArcGIS extension for calculating shoreline change (Thieler, E.R., Himmelstoss, E.A., Zichichi, J.L., and Miller, T.M. 2005. U.S. Geological Survey Open-File Report 2005-1304).  The data has gone through a series of QA/QC procedures, and is therefore believed to accurately reflect the data gathered as part of the National Assessment of Shoreline Change Study.</attraccr>
+		</attracc>
+		<logic>There is significant agreement of linework between adjacent cliff edges.  Cliff edges were checked for accuracy, but no edgematching attempts were made between adjacent cliff edges even if slight offsets existed.</logic>
+		<complete>This cliff edge data adequately represented the cliff edge at the time of the survey.  Remaining gaps in these data, if applicable, are a consequence of non-existing data or existing data that did not meet quality assurance standards.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The maximum estimated positional error for this cliff edge is 1.4 meters. Please visit our full report on cliff erosion along the Coastline of California (&lt;http://pubs.usgs.gov/of/2007/1133), under the heading  "Uncertainties and Errors", for a complete explanation of the measurement error.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Coastal Remote Sensing/Coastal Services Center</origin>
+						<pubdate>20050829</pubdate>
+						<title>Aircraft Laser/GPS Mapping of Coastal Topography.</title>
+						<edition>1.0</edition>
+						<pubinfo>
+							<pubplace>Charleston, SC</pubplace>
+							<publish>NOAA Coastal Services Center</publish>
+						</pubinfo>
+						<othercit>This data set has been extracted from one much larger. See the URL for the location of this larger data set.</othercit>
+						<onlink>http://www.csc.noaa.gov/lidar/</onlink>
+						<onlink>http://maps.csc.noaa.gov/TCM/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Lidar Vector Shoreline</typesrc>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>19980408</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>19980415</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>19980417</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>19980418</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20021002</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Lidar</srccitea>
+				<srccontr>USGS/NASA Airborne Topographic Mapper</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The USGS in collaboration with NASA, used the NASA Airborne Topographic Mapper (ATM II and III) mounted on a Twin Otter Aircraft to map coastal beaches. The raw data was georeferenced at elevation points every few square meters. The original data from ATM was collected in WGS 84, ITRF 97, in a geographic (lat/long) coordinate system with irregular spacing. The data was then converted to NAD 83 and NAVD 88. The cliff edge generation involved an analysis of shore-normal profiles at 20m intervals alongshore.  The point solutions were connected to produce a continuous vector cliff edge in shapefile format.  A shore-parallel reference line was digitized as a permanent baseline for any future cliff edge generation.  Data were projected to UTM zone 10 NAD27 for statistical analysis in the Digital Shoreline Analysis System (DSAS) software.</procdesc>
+				<procdate>2006</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cheryl Hapke</cntper>
+							<cntorg>U.S. Geological Survey</cntorg>
+						</cntperp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>USGS Patuxent Wildlife Research Center</address>
+							<address>University of Rhode Island</address>
+							<address>Coastal Field Station</address>
+							<address>317 Woodward Hall, Dept. of Geosciences</address>
+							<city>Kingston</city>
+							<state>RI</state>
+							<postal>02881</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>401-874-5532</cntvoice>
+						<cntfax>401-874-2190</cntfax>
+						<cntemail>chapke@usgs.gov</cntemail>
+						<hours>Monday through Friday, 8 a.m. to 5 p.m., Eastern Standard Time</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Data were projected from UTM zone 10 to geographic
+
+Tool: ArcGIS &gt; ArcToolbox &gt; Toolboxes &gt; Data Management Tools &gt; Project
+
+Command issued:
+['GCS_North_American_1983',DATUM['D_North_American_1983',SHPERIOD['GRS_1980',6378137.0,298.25722101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</procdesc>
+				<procdate>20070215</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Emily Himmelstoss</cntper>
+							<cntorg>U.S. Geological Survey</cntorg>
+						</cntperp>
+						<cntpos>Geologist</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>384 Woods Hole Road</address>
+							<city>Woods Hole</city>
+							<state>MA</state>
+							<postal>02543-1598</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>508-548-8700 x2262</cntvoice>
+						<cntfax>508-457-2310</cntfax>
+						<cntemail>ehimmelstoss@usgs.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="cencal1998_2002">
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>2643</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="cencal1998_2002"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polyline</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">2643</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="cencal1998_2002">
+			<enttyp>
+				<enttypl>CenCal1998_2002</enttypl>
+				<enttypd>Vector Cliff Edge from Lidar Overflight</enttypd>
+				<enttypds>U.S. Geological Survey</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">2643</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the feature.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DATE_</attrlabl>
+				<attrdef>Date of Lidar overflight</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>19980408</rdommin>
+						<rdommax>20021002</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>DESCR</attrlabl>
+				<attrdef>Detailed description of the feature</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<udom>Describes additional characteristics of the feature.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">64</attwidth></attr>
+			<attr>
+				<attrlabl>ACCURACY</attrlabl>
+				<attrdef>Position accuracy of feature.</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>The accuracy is not given but should be 1.4 meters.</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Feature number</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>40677</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Pacific Science Center</address>
+					<address>400 Natural Bridges Drive</address>
+					<city>Santa Cruz</city>
+					<state>CA</state>
+					<postal>95060-5792</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>831-427-4450</cntvoice>
+				<cntfax>831-427-4748</cntfax>
+				<hours>Monday through Friday, 8 a.m. to 5 p.m., Eastern Standard Time</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>downloadable data</resdesc>
+		<distliab>
+Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, these data and information are provided with the understanding that they are not guaranteed to be usable, timely, accurate, or complete. Users are cautioned to consider carefully the provisional nature of these data and information before using them for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences. Conclusions drawn from, or actions undertaken on the basis of, such data and information are the sole responsibility of the user.
+
+Neither the U.S. Government nor any agency thereof, nor any of their employees, contractors, or subcontractors, make any warranty, express or implied, nor assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any data, software, information, apparatus, product, or process disclosed, nor represent that its use would not infringe on privately owned rights.
+
+Trade, firm, or product names and other references to non-USGS products and services are provided for information only and do not constitute endorsement or warranty, express or implied, by the USGS, USDOI, or U.S. Government, as to their suitability, content, usefulness, functioning, completeness, or accuracy.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>SHP</formname>
+					<formvern>Unspecified</formvern>
+					<formspec>ESRI Polyline Shapefile. The DBF file contains the attribute data in dBASE format. The PRJ file contains the coordinate system information. The SBN and SBX files contain the spatial index of the geospatial data. The SHP file contains the geospatial data. The SHX file contains the index of the geospatial data. The XML file contains the metadata describing the data set.</formspec>
+					<filedec>zip archive</filedec>
+					<transize>0.348</transize>
+					<dssize Sync="TRUE">3.641</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://pubs.usgs.gov/of/2007/1112/CCal.zip</networkr>
+								<networkr>http://pubs.usgs.gov/of/2007/1112/</networkr>
+							</networka>
+						</computer>
+						<accinstr>Data are downloadable via the World Wide Web (WWW).</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+		</stdorder>
+		<techpreq>These data are available in Environmental Systems Research Institute (ESRI) shapefile format. The user must have ArcGIS or ArcView 3.0 or greater software to read and process the data file. In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing the data. A free data viewer, ArcExplorer, capable of displaying the data is available from ESRI at www.esri.com.</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd>20070320</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Cheryl Hapke</cntper>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>USGS Patuxent Wildlife Research Center</address>
+					<address>University of Rhode Island</address>
+					<address>Coastal Field Station</address>
+					<address>317 Woodward Hall, Dept. of Geosciences</address>
+					<city>Kingston</city>
+					<state>RI</state>
+					<postal>02881</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>401-874-5532</cntvoice>
+				<cntfax>401-874-2190</cntfax>
+				<cntemail>chapke@usgs.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">cencal1998_2002</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-123.023299</westBL><eastBL Sync="TRUE">-120.00005</eastBL><northBL Sync="TRUE">38.242553</northBL><southBL Sync="TRUE">34.444174</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-123.023299</westBL><eastBL Sync="TRUE">-120.00005</eastBL><northBL Sync="TRUE">38.242553</northBL><southBL Sync="TRUE">34.444174</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\Emihimltxp\sea_disk (e)\CA_cliffs\metadata_1\review\May2007_final\Central\cencal1998_2002.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">3.641</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_North_American_1983</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="cencal1998_2002"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">2643</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><Esri><SyncDate>20070501</SyncDate><SyncTime>16142400</SyncTime><ModDate>20080916</ModDate><ModTime>14003800</ModTime></Esri><mdDateSt Sync="TRUE">20080916</mdDateSt></metadata>

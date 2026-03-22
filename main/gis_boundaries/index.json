@@ -1,0 +1,106 @@
+[
+	{
+		"shapefile": "schools/Poway Unified SD/ElementaryPowey.shp",
+		"fileLabel": "School District: Poway Unified"
+	},
+	{
+		"shapefile": "schools/Poway Unified SD/MiddlePowey.shp",
+		"fileLabel": "School District: Poway Unified"
+	},
+	{
+		"shapefile": "schools/Poway Unified SD/HighSchools.shp",
+		"fileLabel": "School District: Poway Unified"
+	},
+	{
+		"shapefile": "schools/Poway Unified SD/ElementaryPowey.shp",
+		"shapeLabel": "Elementary School"
+	},
+	{
+		"shapefile": "schools/Poway Unified SD/MiddlePowey.shp",
+		"shapeLabel": "Middle School"
+	},
+	{
+		"shapefile": "schools/Poway Unified SD/HighSchools.shp",
+		"shapeLabel": "High School"
+	},
+
+	{
+		"shapefile": "subdivisions/Poway_North_Limits_2.shp",
+		"fileLabel": "Community: Poway North"
+	},
+	{
+		"shapefile": "subdivisions/Poway_North_Polygons_2.shp",
+		"shapeLabel": "Subdivision"
+	},
+	{
+		"shapefile": "subdivisions/Rancho_Bernardo_Limits_2.shp",
+		"fileLabel": "Community: Rancho Bernardo"
+	},
+	{
+		"shapefile": "subdivisions/Rancho_Bernardo_Polygons_2.shp",
+		"shapeLabel": "Subdivision"
+	},
+	{
+		"shapefile": "subdivisions/BigAreas_v2.shp",
+		"shapeLabel": "Community"
+	},
+	{
+		"shapefile": "subdivisions/SmallAreas_v2.shp",
+		"shapeLabel": "Subdivision"
+	},
+	{
+		"shapefile": "schools/School District/4ElementarySchools.shp",
+		"shapeLabel": "School District"
+	},
+	{
+		"shapefile": "schools/School District/1SanDiegoDistrict.shp",
+		"fileLabel": "School District: San Diego Unified"
+	},
+	{
+		"shapefile": "schools/Solana Beach SD/7SchoolsAfterExlChecking.shp",
+		"shapeLabel": "Elementary School"
+	},
+	{
+		"shapefile": "schools/Del Mar Union SD/DelMarUnionSchoolBoundaries_v2.shp",
+		"shapeLabel": "Elementary School"
+	},
+	{
+		"shapefile": "schools/Middle School/4IntermediateSchools.shp",
+		"shapeLabel": "Middle School"
+	},
+	{
+		"shapefile": "schools/San Dieguito SD/Canyon Crest Academy.shp",
+		"fileLabel": "High School: Canyon Crest Academy"
+	},
+	{
+		"shapefile": "schools/San Dieguito SD/La Costa Canyon High School.shp",
+		"fileLabel": "High School: La Costa Canyon"
+	},
+	{
+		"shapefile": "schools/San Dieguito SD/San Dieguito High School Academy.shp",
+		"fileLabel": "High School: San Dieguito Academy"
+	},
+	{
+		"shapefile": "schools/San Dieguito SD/Torrey Pines High School.shp",
+		"fileLabel": "High School: Torrey Pines"
+	},
+	{
+		"shapefile": "sangis/Airport_Land_Use_Compatibility_Overlay_Zone.shp",
+		"shapeLabel": "Airport Compatibility Zone",
+		"link": "http://beta.san.org/Portals/0/Documents/Land%20Use%20Compatibility/2011_Handbook.pdf"
+	},
+	{
+		"shapefile": "sangis/COMMUNITY_COLLEGE_DISTRICTS.shp",
+		"shapeLabel": "Community College District",
+		"titleCase": true,
+		"replace": "Community College:CC"
+	},
+	{
+		"shapefile": "sangis/ZIP_CODES.shp",
+		"shapeLabel": "Zip Code"
+	},
+	{
+		"shapefile": "downtown-san-diego/SanDiegoDownTown.shp",
+		"shapeLabel": "Downtown San Diego"
+	}	
+]
